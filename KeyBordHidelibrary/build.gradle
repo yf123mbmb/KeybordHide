@@ -6,6 +6,8 @@ plugins {
 android {
     namespace 'com.example.KeyBordHidelibrary'
     compileSdk 33
+    buildToolsVersion "30.0.2"
+
 
     defaultConfig {
         minSdk 30
