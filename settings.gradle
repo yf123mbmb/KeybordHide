@@ -1,2 +1,3 @@
 rootProject.name='ToastFree'
 include ':toastfree'
+include ':keybord_hide'
