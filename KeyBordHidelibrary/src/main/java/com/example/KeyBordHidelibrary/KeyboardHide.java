@@ -1,11 +1,14 @@
 package com.example.KeyBordHidelibrary;
+
 import android.app.Activity;
 import android.content.Context;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 
-public class KeybordHide {
+
+
+public class KeyboardHide {
 
     public static void setup(Activity activity) {
         View rootView = activity.getWindow().getDecorView().findViewById(android.R.id.content);
