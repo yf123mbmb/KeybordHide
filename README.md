@@ -22,7 +22,7 @@ and:
 
 ```gradle
 dependencies {
-    compile 'com.github.jitpack:android-example:{latest version}'
+	    implementation 'com.github.yf123mbmb:KeybordHide:1.17'
 }
 ```
 

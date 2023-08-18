@@ -7,7 +7,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 
-
+//com.keyboardhide.java
 
 public class KeyboardHide {
 
