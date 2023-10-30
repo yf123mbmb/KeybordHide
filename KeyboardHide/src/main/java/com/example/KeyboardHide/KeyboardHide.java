@@ -27,7 +27,7 @@ public class KeyboardHide {
             public boolean onTouch(View view, MotionEvent motionEvent) {
                 if (motionEvent.getAction() == MotionEvent.ACTION_UP) {
                     hideSoftKeyboard(activity);
-                    return true;
+                    return false;
                 }
                 return false;
             }
